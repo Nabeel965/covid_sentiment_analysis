@@ -1,4 +1,4 @@
-# Covid19 Sentiment analysis of tweets on AWS Sagemaker
+# Covid19 Sentiment analysis on AWS Sagemaker
 
 This repository contain notebook to preprocess and train sentiment analysis model on AWS Sagemaker
 
